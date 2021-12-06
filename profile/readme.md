@@ -1,4 +1,4 @@
-![](cover.jpg)
+![Header](https://raw.githubusercontent.com/SimpleCodeBR/.github/main/profile/cover.jpg "Header")
 
 # Nós somos a SimpleCode!
 
